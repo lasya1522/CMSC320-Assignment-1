@@ -1,0 +1,7 @@
+Q1: Why might we consider using git?
+
+Answer: 
+People use git for many reasons, but it is mainly used to manage and collaborate on code for projects. Git comes with many 
+features such as its version control, which allows for users to easily revert to older versions of their code, repositories, 
+which allows for users to create and store various projects, and branches, which allows for users to better organize the 
+project by maintaining separate lines of development. Additionally, git allows users to push and pull changes so that members of a team can easily edit project code and share their progress with the rest of the team.
